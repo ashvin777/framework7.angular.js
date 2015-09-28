@@ -1,0 +1,20 @@
+{
+  "name": "framework7.angular.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ashvin777/framework7.angular.js",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.4",
+    "jquery": "~2.1.4"
+  }
+}
